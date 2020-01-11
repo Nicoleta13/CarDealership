@@ -1,0 +1,2 @@
+INFO  | 2019-12-19 08:36:07 | [main] service.ExecuteApp (ExecuteApp.java:19) - Program Started
+INFO  | 2019-12-19 08:36:09 | [main] service.ExecuteApp (ExecuteApp.java:35) - User just logged in.
