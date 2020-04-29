@@ -12,9 +12,9 @@ public class JDBCConnection {
 		
 		if(conn == null) {
 			
-			String endpoint = "jdbc:oracle:thin:@nicol1911.c8iklzrvmvtx.us-east-2.rds.amazonaws.com:1521:ORCL";
-			String username = "Nicoleta13";
-			String password = "awsNiko1!";
+			String endpoint = "...";
+			String username = "...";
+			String password = "...";
 			String driver = "oracle.jdbc.driver.OracleDriver";
 			
 			try {
